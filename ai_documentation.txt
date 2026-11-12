@@ -1,0 +1,12 @@
+AI tool: Claude (Anthropic), model claude-fable-5-2, used through the Claude
+browser extension / Cowork, November 2026.
+
+How it was used: I gave it the HW3 instructions and asked it to help build the
+package. It looked at the structure of the tennisabstract JS files
+(<Player>.js and <Player>Career.js), and wrote drafts of the package code, the
+tests, pyproject.toml and the README, including a first draft of the
+reflections section, which I then edited.
+
+What was checked: the tests run offline with the mock JS content from the
+assignment, and the package was installed into a clean virtual environment
+before running them.
